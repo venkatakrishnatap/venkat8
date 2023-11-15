@@ -1,7 +1,7 @@
 {
   "nodes": [
     {
-      "uid": "8ca235ad-45c0-4efb-bd45-21eb193631c2",
+      "uid": "57534011-88fb-4be7-ba4f-5e7053393d70",
       "commandName": "messageBox",
       "packageName": "MessageBox",
       "attributes": [
@@ -23,7 +23,7 @@
           "name": "content",
           "value": {
             "type": "STRING",
-            "string": "Checkout 1 after CheckIn"
+            "string": "Checkout 2 after CheckIn"
           }
         },
         {
@@ -41,8 +41,8 @@
           }
         }
       ],
-      "commandId": "Command 1",
-      "packageId": "Command 1"
+      "commandId": "Command 2",
+      "packageId": "Command 2"
     }
   ],
   "variables": [
@@ -59,7 +59,7 @@
   "packages": [
     {
 		"name":"MessageBox",
-      	"version": "Package Version 1"
+      	"version": "Package Version 2"
     }
   ]
 }
